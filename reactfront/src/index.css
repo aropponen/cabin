@@ -1,0 +1,62 @@
+body {
+  background-image: Url("./Pictures/trees.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 20px;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1, h2, h3, p, ul, li {
+  font-family: sans-serif;
+  color: white;
+}
+
+h4, p {
+text-align: center;
+font-family: sans-serif;
+color: white;
+}
+
+ul.header li {
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+
+ul.header {
+  background-color:  rgb(42, 51, 92);
+  padding: 0;
+}
+
+ul.header li a {
+  color: #FFF;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 20px;
+  display: inline-block;
+}
+
+.content {
+  background-color: rgb(95, 143, 95);
+  padding: 20px;
+}
+
+.content h2 {
+  padding: 0;
+  margin: 0;
+}
+
+.content li {
+  margin-bottom: 10px;
+}
