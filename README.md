@@ -17,3 +17,5 @@ Käytetyt tekniikat:
 Sovellus toimii VS Codesta käsin. Toiminta vaatii myös yhteyden kantaan, joka ei ole enää/tällä hetkellä käytettävissä.
 
 Kaikki Back Endiin liittyvä koodi on CabinReservations-kansiossa, FrontEnd reactfront-kansiossa. Frontin koodin kommentointi on puutteellista. Lisäksi ulkoasu jäi viimeistelemättömäksi.
+
+Projektiryhmässä olivayt mukana myös Kaisa Helve ja Sanna Lönn.
