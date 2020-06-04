@@ -14,6 +14,6 @@ Käytetyt tekniikat:
    FrontEnd: React-JS (käytettyjä kirjastoja react-router-dom, bootstrap), tilanhallinta Context Apilla
    Versionhallinta Azure DevOpsin kautta
    
-Sovellus toimii, mutta ulkoasu jäi viimeistelemättömäksi. Toiminta vaatii myös yhteyden kantaan, joka ei ole enää/tällä hetkellä käytettävissä.
+Sovellus toimii VS Codesta käsin. Toiminta vaatii myös yhteyden kantaan, joka ei ole enää/tällä hetkellä käytettävissä.
 
-Kaikki Back Endiin liittyvä koodi on CabinReservations-kansiossa, FrontEnd reactfront-kansiossa. Frontin koodin kommentointi on puutteellista.
+Kaikki Back Endiin liittyvä koodi on CabinReservations-kansiossa, FrontEnd reactfront-kansiossa. Frontin koodin kommentointi on puutteellista. Lisäksi ulkoasu jäi viimeistelemättömäksi.
